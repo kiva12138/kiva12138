@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiva12138
-- 👀 I’m interested in Software Engineering, Machine Learning and Emotion Recognizing.
+- 👀 I’m interested in Software Engineering, Multimodal Learning and Sentiment Recognizing.
 - 🌱 I’m currently learning Machine Learning in Zhejiang University.
-- 💞️ I’m looking to collaborate on HELPPING & LEARNING from each other.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: sunhaoxx@zju.edu.cn
 
 <!---
