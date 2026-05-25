@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiva12138
-- 👀 I’m interested in Software Engineering, Multimodal Learning and Sentiment Recognizing.
+- 👀 I’m interested in Deep Learning, Multimodality and VLA.
 - 🌱 I’m currently conducting reaserch as a researcher.
 - 💞️ I have got my Ph.D from Zhejiang University.
 - 📫 How to reach me: sunhaoxx@zju.edu.cn
